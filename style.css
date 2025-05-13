@@ -47,8 +47,8 @@ header {
 }
 
 .cart-button {
-  background-color: white;
-  color: #3498db;
+  background-color: orangered;
+  color: white;
   padding: 6px 12px;
   border-radius: 6px;
   font-weight: bold;
