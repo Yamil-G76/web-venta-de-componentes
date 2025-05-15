@@ -1,0 +1,178 @@
+
+[
+  {
+    "id": 1,
+    "nombre": "Ryzen 7 5800X",
+    "precio": 250,
+    "categoria": "Procesadores",
+    "imagen": "/imagen/753a1b36e8b5bfe57ff8e7d019feeb15 (1).jpg",
+    "miniaturas": ["/imagen/753a1b36e8b5bfe57ff8e7d019feeb15 (1).jpg",
+      "/imagen/753a1b36e8b5bfe57ff8e7d019feeb15 (1).jpg",
+      "/imagen/753a1b36e8b5bfe57ff8e7d019feeb15 (1).jpg"],
+    "stock": true,
+    "especificaciones": [
+      "8 núcleos", "16 hilos", "Frecuencia base: 3.8 GHz", "Socket AM4", "TDP: 105W"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Intel Core i7-12700K",
+    "precio": 320,
+    "categoria": "Procesadores",
+    "imagen": "/imagen/4ffd90be846c9968afe641bd47a417a4.jpg",
+    "miniaturas": ["/imagen/4ffd90be846c9968afe641bd47a417a4.jpg",
+      "/imagen/4ffd90be846c9968afe641bd47a417a4.jpg",
+      "/imagen/4ffd90be846c9968afe641bd47a417a4.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "12 núcleos (8P + 4E)", "20 hilos", "5.0 GHz", "Socket LGA 1700"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "NVIDIA RTX 3060",
+    "precio": 399,
+    "categoria": "Tarjetas Gráficas",
+    "imagen": "/imagen/rtx3060.jpg",
+    "miniaturas": ["/imagen/rtx3060.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "12GB GDDR6", "192-bit", "Ray Tracing", "HDMI/DP"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "AMD Radeon RX 6600 XT",
+    "precio": 379,
+    "categoria": "Tarjetas Gráficas",
+    "imagen": "/imagen/rx6600xt.jpg",
+    "miniaturas": ["/imagen/rx6600xt.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "8GB GDDR6", "PCIe 4.0", "Ray Accelerators"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Corsair Vengeance LPX 16GB",
+    "precio": 80,
+    "categoria": "Memorias RAM",
+    "imagen": "/imagen/vengeance.jpg",
+    "miniaturas": ["/imagen/vengeance.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "DDR4", "2x8GB", "3200MHz", "CL16"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Kingston Fury Beast 16GB",
+    "precio": 75,
+    "categoria": "Memorias RAM",
+    "imagen": "/imagen/furybeast.jpg",
+    "miniaturas": ["/imagen/furybeast.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "DDR4", "2x8GB", "3000MHz", "CL16"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Samsung 970 EVO Plus 1TB",
+    "precio": 110,
+    "categoria": "Almacenamiento",
+    "imagen": "/imagen/970evo.jpg",
+    "miniaturas": ["/imagen/970evo.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "NVMe M.2", "Velocidad lectura: 3500MB/s", "Escritura: 3300MB/s"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Crucial MX500 1TB",
+    "precio": 85,
+    "categoria": "Almacenamiento",
+    "imagen": "/imagen/mx500.jpg",
+    "miniaturas": ["/imagen/mx500.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "SATA III", "560 MB/s", "Tecnología 3D NAND"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "ASUS B550-Plus Wi-Fi",
+    "precio": 150,
+    "categoria": "Placas Base",
+    "imagen": "/imagen/afb945816d8e87322f3fd040d2fc0e8f.jpg",
+    "miniaturas": ["/imagen/afb945816d8e87322f3fd040d2fc0e8f.jpg",
+      "/imagen/afb945816d8e87322f3fd040d2fc0e8f.jpg",
+      "/imagen/afb945816d8e87322f3fd040d2fc0e8f.jpg"
+    ],
+    "stock": true,
+    "especificaciones": [
+      "Socket AM4", "PCIe 4.0", "Wi-Fi 6", "USB 3.2 Gen2"
+    ]
+  },
+  {
+    "id": 10,
+    "nombre": "MSI MAG B660M Mortar",
+    "precio": 160,
+    "categoria": "Placas Base",
+    "imagen": "/imagen/msi-b660m.jpg",
+    "miniaturas": ["/imagen/msi-b660m.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "Socket LGA 1700", "DDR4", "PCIe 4.0", "M.2 Shield"
+    ]
+  },
+  {
+    "id": 11,
+    "nombre": "Samsung Odyssey G5 27\"",
+    "precio": 299,
+    "categoria": "Monitores",
+    "imagen": "/imagen/odyssey-g5.jpg",
+    "miniaturas": ["/imagen/odyssey-g5.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "2560x1440", "144Hz", "1ms", "Curvo"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "LG UltraGear 24MP60G",
+    "precio": 169,
+    "categoria": "Monitores",
+    "imagen": "/imagen/lg-ultragear.jpg",
+    "miniaturas": ["/imagen/lg-ultragear.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "1920x1080", "75Hz", "1ms MBR", "IPS"
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "Logitech G Pro X",
+    "precio": 129,
+    "categoria": "Auriculares",
+    "imagen": "/imagen/logitech-gpro.jpg",
+    "miniaturas": ["/imagen/logitech-gpro.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "Sonido DTS 7.1", "Micrófono desmontable", "USB + Jack"
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "HyperX Cloud Alpha",
+    "precio": 99,
+    "categoria": "Auriculares",
+    "imagen": "/imagen/cloud-alpha.jpg",
+    "miniaturas": ["/imagen/cloud-alpha.jpg"],
+    "stock": true,
+    "especificaciones": [
+      "Controladores Dual Chamber", "Micrófono desmontable", "Compatibilidad multiplataforma"
+    ]
+  }
+]

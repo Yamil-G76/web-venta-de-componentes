@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Catálogo - CompuStore</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="/Css/catalogo.css">
 </head>
 <body>
   <header>
@@ -14,8 +14,10 @@
       <a href="#" class="cart-button">Carrito</a>
     </div>
   </header>
- <p> <a class="volver",  href="PagPrincipal.html">Volver al Home</a></p>
-  <main class="catalogo">
+
+  <p><a class="volver" href="PagPrincipal.html">Volver al Home</a></p>
+
+  <main class="grid">
     <aside class="filtros">
       <h3>Filtros</h3>
       <label><input type="checkbox"> Procesadores</label><br>
@@ -39,27 +41,20 @@
         </label>
       </div>
 
-      <div class="grid">
-        <div class="producto"><a class="enlace-producto" href="Productos.html">Procesador Ryzen 7</a>
-        </div>
-        <div class="producto">Producto 2</div>
-        <div class="producto">Producto 3</div>
-        <div class="producto">Producto 4</div>
+      <!-- Este es el contenedor que usará JS -->
+      <div class="catalogo-grid" id="contenedor-productos">
+        <!-- Los productos se insertarán aquí por JavaScript -->
       </div>
-
-    
     </section>
-      <div class="paginacion">
-        <button>&laquo;</button>
-        <button class="activo">1</button>
-        <button>2</button>
-        <button>3</button>
-        <button>&raquo;</button>
-      </div>
-  </main>
+
+    <div class="paginacion">
+  <!-- Los botones de paginación se insertarán aquí por JavaScript -->
+</div>
 
   <footer>
     <p>&copy; 2025 CompuStore - Todos los derechos reservados</p>
   </footer>
+
+  <script src="/catálogo.js"></script>
 </body>
 </html>

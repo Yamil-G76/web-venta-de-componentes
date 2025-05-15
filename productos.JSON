@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ryzen 7 5800X",
+    "precio": 250,
+    "imagen": "/imagen/753a1b36e8b5bfe57ff8e7d019feeb15 (1).jpg",
+    "miniaturas": [
+      "/imagen/753a1b36e8b5bfe57ff8e7d019feeb15 (1).jpg",
+      "/imagen/753a1b36e8b5bfe57ff8e7d019feeb15 (1).jpg",
+      "/imagen/753a1b36e8b5bfe57ff8e7d019feeb15 (1).jpg"
+    ],
+    "stock": true,
+    "especificaciones": [
+      "8 núcleos",
+      "16 hilos",
+      "Frecuencia base: 3.8 GHz",
+      "Socket AM4",
+      "TDP: 105W"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Hyper 212 Black",
+    "precio": 45,
+    "imagen": "/imagen/bbf784ccb6ff30ec4c2283b46daea595.jpg",
+    "miniaturas": [
+      "/imagen/bbf784ccb6ff30ec4c2283b46daea595.jpg",
+      "/imagen/bbf784ccb6ff30ec4c2283b46daea595.jpg",
+      "/imagen/bbf784ccb6ff30ec4c2283b46daea595.jpg"
+    ],
+    "stock": true,
+    "especificaciones": [
+      "Disipador por aire",
+      "120mm PWM Fan",
+      "Compatibilidad Intel/AMD",
+      "Diseño de torre simple",
+      "Instalación fácil"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Intel Core i7-12700K",
+    "precio": 320,
+    "imagen": "/imagen/4ffd90be846c9968afe641bd47a417a4.jpg",
+    "miniaturas": [
+      "/imagen/4ffd90be846c9968afe641bd47a417a4.jpg",
+      "/imagen/4ffd90be846c9968afe641bd47a417a4.jpg",
+      "/imagen/4ffd90be846c9968afe641bd47a417a4.jpg"
+    ],
+    "stock": true,
+    "especificaciones": [
+      "12 núcleos (8P + 4E)",
+      "20 hilos",
+      "Frecuencia máxima: 5.0 GHz",
+      "Socket LGA 1700",
+      "Gráficos Intel UHD 770"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "ASUS B550-Plus Wi-Fi",
+    "precio": 150,
+    "imagen": "/imagen/afb945816d8e87322f3fd040d2fc0e8f.jpg",
+    "miniaturas": [
+      "/imagen/afb945816d8e87322f3fd040d2fc0e8f.jpg",
+      "/imagen/afb945816d8e87322f3fd040d2fc0e8f.jpg",
+      "/imagen/afb945816d8e87322f3fd040d2fc0e8f.jpg"
+    ],
+    "stock": true,
+    "especificaciones": [
+      "Chipset B550",
+      "Soporte para Ryzen 3000 y 5000",
+      "Wi-Fi 6 integrado",
+      "PCIe 4.0",
+      "USB 3.2 Gen2"
+    ]
+  }
+]
